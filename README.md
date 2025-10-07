@@ -44,7 +44,7 @@
 
 ---
 
-### `🧾 Certificates`  _(click a badge to open)_
+### `🧾 Certificates`  
 <p>
   <!-- C# - LinkedIn Learning -->
   <a href="https://www.linkedin.com/learning/certificates/23dd0fed7c9bff14dab462252d592ee310918c468457434b581dc25cdba78149?trk=share_certificate" target="_blank">
