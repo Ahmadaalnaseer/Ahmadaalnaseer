@@ -50,14 +50,15 @@ A web-based platform for managing attendance and vacations at the University of 
 ---
 
 ### 🏆 Certifications  
+- **CSharp**  
+- **ASP.NET Workshop** 
 - **Mendix Developer Certificate**  
-- **ASP.NET Workshop**
 
 ---
 
 ### 🌍 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadaalnaseer)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadaalnaseer/)  
+[![LinkedIn](www.linkedin.com/in/ahmad-alshikh-34ba77363)  
 📧 [Email Me](mailto:a.alnaseer.shikh@gmail.com)
 
 ---
