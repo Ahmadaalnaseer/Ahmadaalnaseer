@@ -1,92 +1,83 @@
-<h1 align="center">Hi, I'm Ahmad Al-Shikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+<p align="center">
+  <a href="https://gh-most-followed.pages.dev/jordan">
+    <img src="https://img.shields.io/badge/Most%20Active%20Jordanian%20Developer-2025-blue?style=flat-square&logo=github" style="height:32px;object-fit:contain;"/>
+  </a> &nbsp;
+  <a href="https://committers.top/jordan">
+    <img src="https://img.shields.io/badge/Top%20Contributors%20Jordan-2025-1F883D?style=flat-square&logo=github" style="height:32px;object-fit:contain;"/>
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm Ahmad Al-Shikh 👋</h1>
+
+<h2 align="center">Junior Developer | Web & Mobile Developer</h2>
+<br>
 
 <p align="center">
+  <a href="https://www.google.com/search?q=Ahmad+Al-Shikh">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Learning%20New%20Things;Passionate%20About%20Clean%20Code;Open%20for%20Opportunities&font=Bold%20Code&center=true&color=6EA8FF&pause=2000">
+  </a>
+</p>
+
+<p>
+  <a href="https://komarev.com/ghpvc/?username=Ahmadaalnaseer&style=flat&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=Ahmadaalnaseer&style=flat&color=6EA8FF" height="26">
+  </a>
+</p>
+
+<p>
+  <a href="https://drive.google.com/">
+    <img src="https://img.shields.io/badge/My%20CV-004520?style=flat-square&logo=googledrive&logoColor=white" height="32">
+  </a>
+</p>
+
+---
+
+#### `📬 Connect with me`
+<p align="left">
+  <a href="mailto:ahmad@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/>
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/ahmad-alshikh-34ba77363">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/>
+  </a> &nbsp;
+  <a href="https://wa.me/962700000000">
+    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/>
+  </a> &nbsp;
   <a href="https://github.com/Ahmadaalnaseer">
-    <img src="https://komarev.com/ghpvc/?username=Ahmadaalnaseer&label=Profile%20views&color=0A66C2&style=flat" alt="views"/>
+    <img src="https://img.icons8.com/glyph-neue/64/ffffff/github.png" height="48"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%230A66C2&size=24&center=true&vCenter=true&width=700&height=45&lines=Junior+Developer;CIS+Graduate+%28University+of+Jordan%29;Web+%26+Mobile+Developer;C%23+%7C+Flutter%2FReact+Native+%7C+PHP%2FMySQL;Always+learning+new+things+%F0%9F%92%AA">
-  </a>
-</p>
-
-## 👨‍💻 About me
-<picture><img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="240"></picture>
-
-- 🎓 B.Sc. **Computer Information Systems**, University of Jordan  
-- 💡 Interested in **Backend**, **Mobile Apps**, and clean code  
-- 🔭 Currently learning **C# / .NET / SQL** and improving **Flutter & React Native**  
-- 🤝 Open to **junior roles** and **freelance** collaborations  
-- 📬 Reach me: **a.alnaseer.shikh@gmail.com**
-
 ---
 
-## 🧰 Tech Stack
-
-### Programming & Markup
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Frameworks & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+#### `🧾 Certificates`
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23%20(Learning%20C%23)%20-LinkedIn%20Learning-blue?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mendix%20Developer%20Certificate-6EA8FF?style=flat-square&logo=mendix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Workshop%20Certificate-8A5CFF?style=flat-square&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projects
-| Project | Description | Tech |
-|---|---|---|
-| **Your Health** | Healthcare app for appointments, meds, and dashboards (doctor/patient). | Flutter, Dart |
-| **Book App** | Browse, read, and favorite books with clean UI & filters. | React Native, JS, AsyncStorage |
-| **EAB – Employee Attendance Portal** | Web portal for attendance & vacations (UoJ). | PHP, MySQL, HTML/CSS/JS, jQuery |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmadaalnaseer&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadaalnaseer&show_icons=true&count_private=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmadaalnaseer&layout=compact&theme=tokyonight" height="170"/>
+#### `🛠️ Top Technical Skills`
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=csharp,dotnet,flutter,php,mysql,html,css,js,git,github,postman,visualstudio,vscode" />
 </p>
 
 ---
 
-## 🏅 Certifications
-- Mendix Developer  
-- ASP.NET Workshop
-
----
-
-## 🤝 Connect with me
-<p align="center">
-  <a href="https://github.com/Ahmadaalnaseer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmad-alshikh-34ba77363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:a.alnaseer.shikh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+#### `🏆 GitHub Trophies`
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadaalnaseer&theme=onestar&no-bg=true&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-<!-- Optional: Contribution Snake (requires workflow setup on your repo) -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmadaalnaseer&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Ahmadaalnaseer&theme=highcontrast" height="125"/>
 </p>
--->
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
