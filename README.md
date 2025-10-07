@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  <a href="https://drive.google.com/">
+  <a href="https://drive.google.com/file/d/1hIYOQlWXewRrBzrvRn0TlXCs6k0DKQdQ/view?usp=drive_link">
     <img src="https://img.shields.io/badge/My%20CV-004520?style=flat-square&logo=googledrive&logoColor=white" height="32">
   </a>
 </p>
