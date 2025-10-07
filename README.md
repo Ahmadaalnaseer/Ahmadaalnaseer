@@ -1,67 +1,29 @@
-# 👋 Hi, I'm Ahmad Al-Shikh  
+<h1 align="center">👋 Welcome to My GitHub — Ahmad Al-Shikh</h1>
 
-💻 **Junior Developer | Web & Mobile Developer | CIS Graduate from University of Jordan**
+<div align="center">
+  <a href="https://ossinsight.io/analyze/Ahmadaalnaseer">
+    <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?user_id=Ahmadaalnaseer&image_size=auto" height="300">
+  </a>
+</div>
 
----
-
-### 🧠 About Me  
-I’m an enthusiastic **Computer Information Systems graduate** with a strong foundation in web and mobile development.  
-I enjoy building creative, efficient, and user-friendly applications while continuously improving my technical skills.  
-I’m passionate about collaborating with teams, solving problems, and turning ideas into real projects.  
-
-📍 Based in **Amman, Jordan**  
-📧 **a.alnaseer.shikh@gmail.com**  
-📞 **+962779048467**
-
----
-
-### 🛠️ Technical Skills  
-#### 💻 Languages & Frameworks  
-- **C#**, **PHP**, **C++**, **JavaScript**, **Dart**, **React Native**, **Flutter**, **HTML5**, **CSS3**, **MySQL**, **GitHub**
-
-#### 🧩 Tools & Platforms  
-- Visual Studio, Android Studio, Git, Firebase, REST APIs  
+<h4 align="center">
+  <b><a href="https://ossinsight.io/analyze/Ahmadaalnaseer">My OSS Insight Dashboard</a></b> •
+  <a href="https://ossinsight.io/widgets">Widgets Gallery</a> •
+  <a href="https://ossinsight.io/blog">Blog</a> •
+  <a href="https://twitter.com/OSSInsight">Twitter</a>
+</h4>
 
 ---
 
-### 🚀 Projects
+### 📊 Open Source Analytics for Ahmad Al-Shikh
+| Repository Activity | Top Active Projects |
+|---------------------|---------------------|
+|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?user_id=Ahmadaalnaseer&image_size=auto"/>|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?user_id=Ahmadaalnaseer&image_size=auto"/>|
 
-#### 📱 **Your Health App**
-A healthcare mobile application that manages appointments, medications, and communication between doctors and patients.  
-- **Technologies:** Flutter, Dart  
-- **Role:** Full app development (UI design + app logic)
-
-#### 📚 **Book App**
-A React Native app that lets users browse books, view details, and save favorites.  
-- **Technologies:** React Native, JavaScript, AsyncStorage  
-- **Role:** Developed UI, filtering system, and reading functionality
-
-#### 🧾 **EAB – Employee Attendance Portal**
-A web-based platform for managing attendance and vacations at the University of Jordan.  
-- **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, jQuery  
-- **Role:** Database design and backend development  
+| Star History | Active Repositories |
+|---------------|--------------------|
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?user_id=Ahmadaalnaseer&image_size=auto"/>|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=Ahmadaalnaseer&image_size=auto"/>|
 
 ---
 
-### 🧰 GitHub Stats  
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmadaalnaseer&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadaalnaseer&layout=compact&theme=github_dark)
-
----
-
-### 🏆 Certifications  
-- **CSharp**  
-- **ASP.NET Workshop** 
-- **Mendix Developer Certificate**  
-
----
-
-### 🌍 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadaalnaseer)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alshikh-34ba77363)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.alnaseer.shikh@gmail.com)
-
-
----
-
-⭐ From [Ahmadaalnaseer](https://github.com/Ahmadaalnaseer)
+✨ Generated with [OSSInsight.io](https://ossinsight.io) ✨
