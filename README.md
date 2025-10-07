@@ -52,7 +52,7 @@
 
 #### `🧾 Certificates`
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23%20(Learning%20C%23)%20-LinkedIn%20Learning-blue?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://www.linkedin.com/learning/certificates/23dd0fed7c9bff14dab462252d592ee310918c468457434b581dc25cdba78149?trk=share_certificate"/>
   <img src="https://img.shields.io/badge/Mendix%20Developer%20Certificate-6EA8FF?style=flat-square&logo=mendix&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Workshop%20Certificate-8A5CFF?style=flat-square&logo=dotnet&logoColor=white"/>
 </p>
