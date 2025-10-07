@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/ahmad-alshikh-34ba77363">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/>
   </a> &nbsp;
-  <a href="https://wa.me/962700000000">
+  <a href="https://wa.me/962779048467">
     <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/>
   </a> &nbsp;
   <a href="https://github.com/Ahmadaalnaseer">
